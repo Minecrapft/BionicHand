@@ -175,4 +175,4 @@ To control the robot hand from your phone using a web browser on the local netwo
 - **Web page doesn't load:** Check the IP address from the Serial Monitor (e.g., 192.168.1.), and make sure no firewall is blocking port 80.
 - **Servos don't respond:** Verify the `/servo` endpoint is correctly wired to your servo control code.
 
-I can update `Robohand.ino` with a complete working example if you'd like.
+
