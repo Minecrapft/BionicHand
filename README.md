@@ -53,10 +53,7 @@ If using external servo power, ensure the external supply is connected and commo
 
 - Servos jittering: provide a stable external power supply and common ground.
 - Servo not moving: check signal pin, correct power, and that the sketch references the correct pin.
-
-## License
-
-MIT License — feel free to reuse and modify. Include attribution if you share.
+ 
 
 ## Contact
 
